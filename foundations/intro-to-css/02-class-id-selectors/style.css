@@ -1,1 +1,9 @@
 /* Add CSS Styling */
+
+.oddNumbers {
+  background-color: #ffa7a7;
+}
+
+.evenNumbers {
+  background-color: #80ff80;
+}
