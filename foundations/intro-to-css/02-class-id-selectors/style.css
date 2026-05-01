@@ -2,8 +2,18 @@
 
 .oddNumbers {
   background-color: #ffa7a7;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#secondElement {
+  color: #0000ff;
+  font-size: 36px;
 }
 
 .evenNumbers {
   background-color: #80ff80;
+}
+
+.bigText {
+  font-size: 24px;
 }
