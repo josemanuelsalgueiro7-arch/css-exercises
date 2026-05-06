@@ -24,4 +24,6 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
+  font-size: 20px;
+  padding: 12px 30px;
 }
